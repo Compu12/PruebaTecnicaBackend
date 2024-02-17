@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+# Prueba Técnica Desarrollador Fullstack
 
-Descripción concisa del propósito o función principal de tu proyecto.
+ Desarrollar un CRUD .Net (API, Backend) para la creación de Clientes y Servicios
 
 ## Requisitos Previos
 
