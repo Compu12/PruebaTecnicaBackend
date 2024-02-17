@@ -196,7 +196,7 @@ Respuesta
   
 Endpoint
 ~~~
-PUT /ActualizarServicio
+PUT /Servicio
 ~~~
 Descripción
 
@@ -216,7 +216,7 @@ Respuesta
   
 Endpoint
 ~~~
-DELETE /EliminarServicio/{idServicio}
+DELETE /Servicio/{idServicio}
 ~~~
 Descripción
 
