@@ -153,3 +153,4 @@ D:\XavierCañizaresPruebaTecnica\PruebaTecnicaBackend\PruebaTecnicaBackend\obj\D
 D:\XavierCañizaresPruebaTecnica\PruebaTecnicaBackend\PruebaTecnicaBackend\obj\Debug\net6.0\PruebaTecnicaBackend.pdb
 D:\XavierCañizaresPruebaTecnica\PruebaTecnicaBackend\PruebaTecnicaBackend\obj\Debug\net6.0\PruebaTecnicaBackend.genruntimeconfig.cache
 D:\XavierCañizaresPruebaTecnica\PruebaTecnicaBackend\PruebaTecnicaBackend\obj\Debug\net6.0\ref\PruebaTecnicaBackend.dll
+D:\PruebaTecnicaBackend\PruebaTecnicaBackend\obj\Debug\net6.0\PruebaTecnicaBackend.sourcelink.json

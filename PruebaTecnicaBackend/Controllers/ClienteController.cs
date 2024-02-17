@@ -1,8 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using PruebaTecnicaBackend.Dtos;
 using PruebaTecnicaBackend.Models;
-using System.Reflection.Metadata.Ecma335;
 
 namespace PruebaTecnicaBackend.Controllers
 {
@@ -17,7 +15,7 @@ namespace PruebaTecnicaBackend.Controllers
          }
 
         [HttpGet]
-        public ActionResult Clients()
+        public ActionResult Clientes()
         {
             try
             {

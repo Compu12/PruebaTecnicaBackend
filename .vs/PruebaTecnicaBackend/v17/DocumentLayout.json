@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\XavierCa\u00F1izaresPruebaTecnica\\PruebaTecnicaBackend\\",
+  "WorkspaceRootPath": "D:\\PruebaTecnicaBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\xavierca\u00F1izarespruebatecnica\\pruebatecnicabackend\\pruebatecnicabackend\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|solutionrelative:pruebatecnicabackend\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\xavierca\u00F1izarespruebatecnica\\pruebatecnicabackend\\pruebatecnicabackend\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|solutionrelative:pruebatecnicabackend\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\xavierca\u00F1izarespruebatecnica\\pruebatecnicabackend\\pruebatecnicabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|solutionrelative:pruebatecnicabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\xavierca\u00F1izarespruebatecnica\\pruebatecnicabackend\\pruebatecnicabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\pruebatecnicabackend\\pruebatecnicabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|solutionrelative:pruebatecnicabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\xavierca\u00F1izarespruebatecnica\\pruebatecnicabackend\\pruebatecnicabackend\\models\\pruebatecnicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\pruebatecnicabackend\\pruebatecnicabackend\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|solutionrelative:pruebatecnicabackend\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\pruebatecnicabackend\\pruebatecnicabackend\\dtos\\serviciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|solutionrelative:pruebatecnicabackend\\dtos\\serviciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\pruebatecnicabackend\\pruebatecnicabackend\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|solutionrelative:pruebatecnicabackend\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\pruebatecnicabackend\\pruebatecnicabackend\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|solutionrelative:pruebatecnicabackend\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\pruebatecnicabackend\\pruebatecnicabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|solutionrelative:pruebatecnicabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|d:\\pruebatecnicabackend\\pruebatecnicabackend\\models\\pruebatecnicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2604BC53-8027-4188-8BD9-0378884207C9}|PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj|solutionrelative:pruebatecnicabackend\\models\\pruebatecnicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,15 +38,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 174,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioDto.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Dtos\\ServicioDto.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaBackend\\Dtos\\ServicioDto.cs",
+              "ToolTip": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Dtos\\ServicioDto.cs",
+              "RelativeToolTip": "PruebaTecnicaBackend\\Dtos\\ServicioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T22:03:41.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaBackend\\Controllers\\ServiciosController.cs",
+              "ToolTip": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "PruebaTecnicaBackend\\Controllers\\ServiciosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:59:32.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ClienteDto.cs",
-              "DocumentMoniker": "D:\\XavierCa\u00F1izaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Dtos\\ClienteDto.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Dtos\\ClienteDto.cs",
               "RelativeDocumentMoniker": "PruebaTecnicaBackend\\Dtos\\ClienteDto.cs",
-              "ToolTip": "D:\\XavierCa\u00F1izaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Dtos\\ClienteDto.cs",
+              "ToolTip": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Dtos\\ClienteDto.cs",
               "RelativeToolTip": "PruebaTecnicaBackend\\Dtos\\ClienteDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -46,24 +84,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ClienteController.cs",
-              "DocumentMoniker": "D:\\XavierCa\u00F1izaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Controllers\\ClienteController.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "PruebaTecnicaBackend\\Controllers\\ClienteController.cs",
-              "ToolTip": "D:\\XavierCa\u00F1izaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "PruebaTecnicaBackend\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAswHQAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-17T16:19:10.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PruebaTecnicaDBContext.cs",
-              "DocumentMoniker": "D:\\XavierCa\u00F1izaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Models\\PruebaTecnicaDBContext.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Models\\PruebaTecnicaDBContext.cs",
               "RelativeDocumentMoniker": "PruebaTecnicaBackend\\Models\\PruebaTecnicaDBContext.cs",
-              "ToolTip": "D:\\XavierCa\u00F1izaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Models\\PruebaTecnicaDBContext.cs",
+              "ToolTip": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Models\\PruebaTecnicaDBContext.cs",
               "RelativeToolTip": "PruebaTecnicaBackend\\Models\\PruebaTecnicaDBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +109,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\XavierCa\u00F1izaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Program.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Program.cs",
               "RelativeDocumentMoniker": "PruebaTecnicaBackend\\Program.cs",
-              "ToolTip": "D:\\XavierCa\u00F1izaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Program.cs",
+              "ToolTip": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\Program.cs",
               "RelativeToolTip": "PruebaTecnicaBackend\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,23 +121,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\XavierCa\u00F1izaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\appsettings.json",
+              "DocumentMoniker": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\appsettings.json",
               "RelativeDocumentMoniker": "PruebaTecnicaBackend\\appsettings.json",
-              "ToolTip": "D:\\XavierCa\u00F1izaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\appsettings.json",
+              "ToolTip": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\appsettings.json",
               "RelativeToolTip": "PruebaTecnicaBackend\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-17T01:28:09.401Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-02-17T01:28:09.401Z",
+              "EditorCaption": ""
             }
           ]
         }

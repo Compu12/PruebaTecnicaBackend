@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\XavierCañizaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj": {}
+    "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj": {}
   },
   "projects": {
-    "D:\\XavierCañizaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj": {
+    "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\XavierCañizaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj",
+        "projectUniqueName": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj",
         "projectName": "PruebaTecnicaBackend",
-        "projectPath": "D:\\XavierCañizaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj",
+        "projectPath": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\PruebaTecnicaBackend.csproj",
         "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
-        "outputPath": "D:\\XavierCañizaresPruebaTecnica\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\obj\\",
+        "outputPath": "D:\\PruebaTecnicaBackend\\PruebaTecnicaBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xavie\\AppData\\Roaming\\NuGet\\NuGet.Config",
