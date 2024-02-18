@@ -65,7 +65,7 @@ namespace PruebaTecnicaBackend.Controllers
                     _context.Add(clienteDb);
                     _context.SaveChanges();
 
-                    return Ok(clienteDb);
+                    return Ok(new { message = "Cliente creado con éxito!", data = clienteDb });
                 }
                 else
                 {
@@ -113,6 +113,7 @@ namespace PruebaTecnicaBackend.Controllers
                     return NotFound("No se pudo eliminar,cliente no encontrado");
                 }
                 _context.Remove(clienteDb);
+                _context.SaveChanges();
                 return Ok(new { message = "Cliente eliminado con éxito!", data = idCliente });
             }catch(Exception ex)
             {

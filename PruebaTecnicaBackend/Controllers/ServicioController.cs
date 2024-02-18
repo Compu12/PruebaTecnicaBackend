@@ -6,11 +6,11 @@ namespace PruebaTecnicaBackend.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ServiciosController : Controller
+    public class ServicioController : Controller
     {
         private readonly PruebaTecnicaDBContext _context;
 
-        public ServiciosController(PruebaTecnicaDBContext context)
+        public ServicioController(PruebaTecnicaDBContext context)
         {
             _context = context;
         }
@@ -67,7 +67,11 @@ namespace PruebaTecnicaBackend.Controllers
                     _context.Add(servicioDb);
                     _context.SaveChanges();
 
-                    return Ok(servicioDb);
+                    return Ok(new
+                    {
+                        message = "Servicio creado con éxito!",
+                        data = servicioDb
+                    });
                 }
                 else
                 {
@@ -117,6 +121,7 @@ namespace PruebaTecnicaBackend.Controllers
                     return NotFound("No se pudo eliminar,servicio no encontrado");
                 }
                 _context.Remove(servicioDb);
+                _context.SaveChanges();
                 return Ok(new { message = "Servicio eliminado con éxito!", data = idServicio });
             }
             catch (Exception ex)

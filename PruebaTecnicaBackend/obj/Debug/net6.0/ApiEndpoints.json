@@ -74,9 +74,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "PruebaTecnicaBackend.Controllers.ServiciosController",
+    "ContainingType": "PruebaTecnicaBackend.Controllers.ServicioController",
     "Method": "Servicios",
-    "RelativePath": "api/Servicios",
+    "RelativePath": "api/Servicio",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -84,9 +84,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "PruebaTecnicaBackend.Controllers.ServiciosController",
+    "ContainingType": "PruebaTecnicaBackend.Controllers.ServicioController",
     "Method": "Servicio",
-    "RelativePath": "api/Servicios",
+    "RelativePath": "api/Servicio",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -100,9 +100,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "PruebaTecnicaBackend.Controllers.ServiciosController",
+    "ContainingType": "PruebaTecnicaBackend.Controllers.ServicioController",
     "Method": "ActualizarServicio",
-    "RelativePath": "api/Servicios",
+    "RelativePath": "api/Servicio",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -116,9 +116,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "PruebaTecnicaBackend.Controllers.ServiciosController",
+    "ContainingType": "PruebaTecnicaBackend.Controllers.ServicioController",
     "Method": "Servicio",
-    "RelativePath": "api/Servicios/{idServicio}",
+    "RelativePath": "api/Servicio/{idServicio}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -132,9 +132,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "PruebaTecnicaBackend.Controllers.ServiciosController",
+    "ContainingType": "PruebaTecnicaBackend.Controllers.ServicioController",
     "Method": "EliminarServicio",
-    "RelativePath": "api/Servicios/{idServicio}",
+    "RelativePath": "api/Servicio/{idServicio}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

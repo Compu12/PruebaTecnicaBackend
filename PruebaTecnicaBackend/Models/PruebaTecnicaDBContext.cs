@@ -17,14 +17,15 @@ namespace PruebaTecnicaBackend.Models
         }
 
         public virtual DbSet<Cliente> Clientes { get; set; } = null!;
+        public virtual DbSet<ClienteServicio> ClienteServicios { get; set; } = null!;
         public virtual DbSet<Servicio> Servicios { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var configuration = new ConfigurationBuilder()
-            .SetBasePath(Directory.GetCurrentDirectory())
-            .AddJsonFile("appsettings.json")
-            .Build();
+             .SetBasePath(Directory.GetCurrentDirectory())
+             .AddJsonFile("appsettings.json")
+             .Build();
 
             var connectionString = configuration.GetConnectionString("Connection");
             optionsBuilder.UseSqlServer(connectionString);
@@ -47,6 +48,22 @@ namespace PruebaTecnicaBackend.Models
                 entity.Property(e => e.NombreCliente)
                     .HasMaxLength(255)
                     .IsUnicode(false);
+            });
+
+            modelBuilder.Entity<ClienteServicio>(entity =>
+            {
+                entity.HasKey(e => e.IdClienteServicios)
+                    .HasName("ClienteServicios_PK");
+
+                entity.HasOne(d => d.IdClienteNavigation)
+                    .WithMany(p => p.ClienteServicios)
+                    .HasForeignKey(d => d.IdCliente)
+                    .HasConstraintName("ClienteServicios_Cliente_FK");
+
+                entity.HasOne(d => d.IdServicioNavigation)
+                    .WithMany(p => p.ClienteServicios)
+                    .HasForeignKey(d => d.IdServicio)
+                    .HasConstraintName("ClienteServicios_Servicio_FK");
             });
 
             modelBuilder.Entity<Servicio>(entity =>
