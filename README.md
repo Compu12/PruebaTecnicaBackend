@@ -20,8 +20,11 @@ Asegúrate de tener instalado lo siguiente:
 2. **Abrir el Proyecto:**
 
 Abre el proyecto en tu editor preferido.
+3. **Crear la base de datos**
 
-3. **Configurar la Cadena de Conexión de la Base de Datos:**
+Crear la base de datos restaurando del archivo .bak ubicado en la carpeta ScriptBaseDatos
+
+4. **Configurar la Cadena de Conexión de la Base de Datos:**
 
 Abre el archivo appsettings.json.
 
